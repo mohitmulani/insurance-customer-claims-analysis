@@ -4,7 +4,19 @@ Power BI analysis of 10K+ insurance policies to understand policy performance, c
 
 ## Dashboard Preview
 
-> Screenshots will be added here after exporting the three Power BI report pages.
+## Dashboard Preview
+
+### Insurance Overview
+
+![Insurance Overview](screenshots/insurance-overview.png)
+
+### Policy & Claim Details
+
+![Policy & Claim Details](screenshots/policy-claim-details.png)
+
+### Customer Feedback & Sentiment
+
+![Customer Feedback & Sentiment](screenshots/customer-feedback-sentiment.png)
 
 ## Business Problem
 
